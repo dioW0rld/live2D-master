@@ -260,7 +260,6 @@ function initWidget(config, apiPath) {
 		config = {
 			waifuPath: config,
 			apiPath
-
 		};
 	}
 	document.body.insertAdjacentHTML("beforeend", `<div id="waifu-toggle">
